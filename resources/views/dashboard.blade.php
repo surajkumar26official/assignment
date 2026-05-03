@@ -200,7 +200,7 @@ function getUrls() {
             li.innerHTML = `
                 ${url.original_url}
                 →
-                <a href="/api/r/${url.short_code}" target="_blank">
+                <a href="${url.original_url}" target="_blank">
                     ${url.short_code}
                 </a>
             `;
@@ -212,4 +212,3 @@ function getUrls() {
 
 </body>
 </html>
-//Frontend is mostly created with AI and then edited by me. I have added comments in the code where I have made changes to the AI generated code.
