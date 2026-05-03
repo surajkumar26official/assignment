@@ -5,5 +5,3 @@
 5. then the project will be ready use after running the php artisan serve
 6. visit the route from console the project will be visible and in action 
 // the fontend is mostly used by AI for time taking factor and since clearly mentioned the fronted should not be strictly monitered
-# assignment
-# assignment
